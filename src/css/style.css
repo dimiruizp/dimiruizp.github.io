@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Tourney:wght@200&display=swap');
 
 html {
   background-color: black;
@@ -8,4 +8,10 @@ h1 {
   size: 75px;
   color: white;
   font-family: 'Monoton', cursive;
+}
+
+h2 {
+  size: 50px;
+  color: white;
+  font-family: 'Tourney', cursive;
 }
