@@ -1,4 +1,2 @@
-# dimiruizp.github.io
-RDim.cf
-
+# RDim.cf
 Dimitri's page hosted by Github Pages
