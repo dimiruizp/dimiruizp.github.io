@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Tourney:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Orbitron&family=Tourney:wght@200&display=swap');
 
 html {
   background-color: black;
@@ -14,4 +14,10 @@ h2 {
   size: 50px;
   color: white;
   font-family: 'Tourney', cursive;
+}
+
+.comingSoon {
+  size: 50px;
+  color: white;
+  font-family: 'Orbitron', sans-serif;
 }
