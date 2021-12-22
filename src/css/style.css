@@ -24,5 +24,15 @@ h2 {
 
 img {
   width: 400px;
-  object-position: top;
 }
+
+.container {
+  position: relative;
+  text-align: center;
+  color: w}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
