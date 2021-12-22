@@ -21,3 +21,8 @@ h2 {
   color: white;
   font-family: 'Orbitron', sans-serif;
 }
+
+#img {
+  width: 400px;
+  object-position: top;
+}
